@@ -8,7 +8,7 @@ function App() {
     <>
       <div>
         <h1> developed by Anmol Ingle </h1>
-        
+      </div>
     </>
   )
 }
